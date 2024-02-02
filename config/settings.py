@@ -42,10 +42,10 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "rest_framework",
     # My apps
-    "courses",
-    "events",
-    "articles",
-    "miscellaneous"
+    "app_courses",
+    "app_events",
+    "app_articles",
+    "app_miscellaneous"
 ]
 
 MIDDLEWARE = [
